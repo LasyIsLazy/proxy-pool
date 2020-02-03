@@ -1,0 +1,12 @@
+{
+  "name": "proxy-pool",
+  "version": "0.0.1",
+  "description": "代理池",
+  "main": "index.js",
+  "repository": "git@github.com:LasyIsLazy/proxy-pool.git",
+  "author": "Lasy",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
